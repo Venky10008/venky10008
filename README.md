@@ -10,6 +10,8 @@
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
+![Contributions](./assets/contributions.svg?v=2)
+
 ![Connect](./assets/connect.svg?v=1)
 
 ## Selected projects
@@ -26,7 +28,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/venkatesh-pola-8b5797238
 - **Portfolio:** https://venky36.vercel.app/
 
-> 4th-year student from Khammam, building practical AI systems and learning by shipping.
+> 4th-year CSE (AI & ML) student from Khammam, building practical AI systems and learning by shipping.
 
 ---
 

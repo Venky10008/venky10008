@@ -1,10 +1,18 @@
-# Upload instructions
+FINAL GITHUB PROFILE PACKAGE — VENKY10008
 
 1. Extract this ZIP.
-2. Upload `README.md` and the entire `assets/` folder into the root of your public `Venky10008` profile repository.
-3. Do not upload only the ZIP.
-4. Keep the folder structure exactly as provided.
+2. Push/upload the ENTIRE extracted folder contents to the root of your profile repository:
+   https://github.com/Venky10008/venky10008
+3. Keep README.md at the repository root.
+4. Keep the assets/ folder and the .github/workflows/ folder exactly as included.
+5. The workflow updates assets/contributions.svg automatically every day and can also be run manually from GitHub Actions.
+6. After the first push, open the repository's Actions tab and wait for "Update Contribution Matrix" to finish. The contribution section will then show your real GitHub contribution history with the animated neon comet sweep.
+7. Do NOT upload only the ZIP file. Upload/push the extracted files and folders.
 
-The repository must be public, named exactly `Venky10008`, and `README.md` must remain at the repository root for GitHub to display it as the profile README.
-
-The `preview.html` file is optional and can be used locally to inspect the five sections before uploading.
+The existing visual sections are:
+1. Hero
+2. About / Life
+3. Tech Stack
+4. ID Dashboard
+5. Contribution Matrix (auto-refresh)
+6. Connect
