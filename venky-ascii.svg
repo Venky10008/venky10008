@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660">
+<rect width="100%" height="100%" fill="white"/>
+<style>.a{font-family:monospace;font-size:12px;fill:#333;white-space:pre}</style>
+<clipPath id="c0"><rect x="0" y="0" width="900" height="12"/></clipPath>
+<g clip-path="url(#c0)"><text class="a" x="0" y="10">                                          ....:.</text></g>
+<rect x="0" y="0" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.000s" fill="freeze"/></rect>
+<clipPath id="c1"><rect x="0" y="12" width="900" height="12"/></clipPath>
+<g clip-path="url(#c1)"><text class="a" x="0" y="22">                                     .+*%@@@@@@@@*+=-:.</text></g>
+<rect x="0" y="12" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.035s" fill="freeze"/></rect>
+<clipPath id="c2"><rect x="0" y="24" width="900" height="12"/></clipPath>
+<g clip-path="url(#c2)"><text class="a" x="0" y="34">                                ..:.*@@@@@@@@@@@@@@@@@@%+=.</text></g>
+<rect x="0" y="24" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.070s" fill="freeze"/></rect>
+<clipPath id="c3"><rect x="0" y="36" width="900" height="12"/></clipPath>
+<g clip-path="url(#c3)"><text class="a" x="0" y="46">                               =+#%#%%@@%@@@@@@%@@@@@@@@@@@#:</text></g>
+<rect x="0" y="36" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.105s" fill="freeze"/></rect>
+<clipPath id="c4"><rect x="0" y="48" width="900" height="12"/></clipPath>
+<g clip-path="url(#c4)"><text class="a" x="0" y="58">                              =*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%:</text></g>
+<rect x="0" y="48" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.140s" fill="freeze"/></rect>
+<clipPath id="c5"><rect x="0" y="60" width="900" height="12"/></clipPath>
+<g clip-path="url(#c5)"><text class="a" x="0" y="70">                             .*@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@</text></g>
+<rect x="0" y="60" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.175s" fill="freeze"/></rect>
+<clipPath id="c6"><rect x="0" y="72" width="900" height="12"/></clipPath>
+<g clip-path="url(#c6)"><text class="a" x="0" y="82">                              #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text></g>
+<rect x="0" y="72" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.210s" fill="freeze"/></rect>
+<clipPath id="c7"><rect x="0" y="84" width="900" height="12"/></clipPath>
+<g clip-path="url(#c7)"><text class="a" x="0" y="94">                              +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text></g>
+<rect x="0" y="84" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.245s" fill="freeze"/></rect>
+<clipPath id="c8"><rect x="0" y="96" width="900" height="12"/></clipPath>
+<g clip-path="url(#c8)"><text class="a" x="0" y="106">                              .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text></g>
+<rect x="0" y="96" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.280s" fill="freeze"/></rect>
+<clipPath id="c9"><rect x="0" y="108" width="900" height="12"/></clipPath>
+<g clip-path="url(#c9)"><text class="a" x="0" y="118">                              :%@@@@%#***+++++*#%%@@@@@@@@@@@@@@*</text></g>
+<rect x="0" y="108" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.315s" fill="freeze"/></rect>
+<clipPath id="c10"><rect x="0" y="120" width="900" height="12"/></clipPath>
+<g clip-path="url(#c10)"><text class="a" x="0" y="130">                             :#@@@%#*++=-------==++*##%@@@@@@@@@@</text></g>
+<rect x="0" y="120" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.350s" fill="freeze"/></rect>
+<clipPath id="c11"><rect x="0" y="132" width="900" height="12"/></clipPath>
+<g clip-path="url(#c11)"><text class="a" x="0" y="142">                            *@@@%##*++=-----::-----===+*%@@@@@@@#</text></g>
+<rect x="0" y="132" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.385s" fill="freeze"/></rect>
+<clipPath id="c12"><rect x="0" y="144" width="900" height="12"/></clipPath>
+<g clip-path="url(#c12)"><text class="a" x="0" y="154">                           *@@@@#**++===----:::-----==++*%@@@@@@:</text></g>
+<rect x="0" y="144" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.420s" fill="freeze"/></rect>
+<clipPath id="c13"><rect x="0" y="156" width="900" height="12"/></clipPath>
+<g clip-path="url(#c13)"><text class="a" x="0" y="166">                           @@@@%#*+++==---:::::::---==++++#@@@@@=</text></g>
+<rect x="0" y="156" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.455s" fill="freeze"/></rect>
+<clipPath id="c14"><rect x="0" y="168" width="900" height="12"/></clipPath>
+<g clip-path="url(#c14)"><text class="a" x="0" y="178">                          .@@@@%*++==--:::.....:::----==++*#@@@@=</text></g>
+<rect x="0" y="168" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.490s" fill="freeze"/></rect>
+<clipPath id="c15"><rect x="0" y="180" width="900" height="12"/></clipPath>
+<g clip-path="url(#c15)"><text class="a" x="0" y="190">                          .@@@@%*******+=-:::.::::----==++*#@@@@+</text></g>
+<rect x="0" y="180" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.525s" fill="freeze"/></rect>
+<clipPath id="c16"><rect x="0" y="192" width="900" height="12"/></clipPath>
+<g clip-path="url(#c16)"><text class="a" x="0" y="202">                           @@@@%###%#%@@@%+--::--+#%@@@%%%##@@@@-</text></g>
+<rect x="0" y="192" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.560s" fill="freeze"/></rect>
+<clipPath id="c17"><rect x="0" y="204" width="900" height="12"/></clipPath>
+<g clip-path="url(#c17)"><text class="a" x="0" y="214">                           %@@@%#**+===++++=-:-=+*#**+**#%%#@@@@:</text></g>
+<rect x="0" y="204" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.595s" fill="freeze"/></rect>
+<clipPath id="c18"><rect x="0" y="216" width="900" height="12"/></clipPath>
+<g clip-path="url(#c18)"><text class="a" x="0" y="226">                           :@@@#**###%@%*+++=:-=*+**#******#@@@%</text></g>
+<rect x="0" y="216" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.630s" fill="freeze"/></rect>
+<clipPath id="c19"><rect x="0" y="228" width="900" height="12"/></clipPath>
+<g clip-path="url(#c19)"><text class="a" x="0" y="238">                            %@%***##+#%+-====--++++=%@*#@#**%@@=</text></g>
+<rect x="0" y="228" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.665s" fill="freeze"/></rect>
+<clipPath id="c20"><rect x="0" y="240" width="900" height="12"/></clipPath>
+<g clip-path="url(#c20)"><text class="a" x="0" y="250">                            =@*+==----:::-===--++=--===+++++*@%</text></g>
+<rect x="0" y="240" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.700s" fill="freeze"/></rect>
+<clipPath id="c21"><rect x="0" y="252" width="900" height="12"/></clipPath>
+<g clip-path="url(#c21)"><text class="a" x="0" y="262">                            *#*+=--::::::-===--++=-------==+*%*</text></g>
+<rect x="0" y="252" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.735s" fill="freeze"/></rect>
+<clipPath id="c22"><rect x="0" y="264" width="900" height="12"/></clipPath>
+<g clip-path="url(#c22)"><text class="a" x="0" y="274">                            :+*+=--::::::-==---++=-------==+*%-</text></g>
+<rect x="0" y="264" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.770s" fill="freeze"/></rect>
+<clipPath id="c23"><rect x="0" y="276" width="900" height="12"/></clipPath>
+<g clip-path="url(#c23)"><text class="a" x="0" y="286">                             =+*+=--:::::-==:.:=+=--:----==+**</text></g>
+<rect x="0" y="276" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.805s" fill="freeze"/></rect>
+<clipPath id="c24"><rect x="0" y="288" width="900" height="12"/></clipPath>
+<g clip-path="url(#c24)"><text class="a" x="0" y="298">                             =+*++=--::::=+*+-=**+-::--===++#=</text></g>
+<rect x="0" y="288" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.840s" fill="freeze"/></rect>
+<clipPath id="c25"><rect x="0" y="300" width="900" height="12"/></clipPath>
+<g clip-path="url(#c25)"><text class="a" x="0" y="310">                             :++*+==---:--+=+****+----===+**#</text></g>
+<rect x="0" y="300" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.875s" fill="freeze"/></rect>
+<clipPath id="c26"><rect x="0" y="312" width="900" height="12"/></clipPath>
+<g clip-path="url(#c26)"><text class="a" x="0" y="322">                              ::+++===---==++-=++++=====+***+</text></g>
+<rect x="0" y="312" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.910s" fill="freeze"/></rect>
+<clipPath id="c27"><rect x="0" y="324" width="900" height="12"/></clipPath>
+<g clip-path="url(#c27)"><text class="a" x="0" y="334">                                :+++=+*****+===++**##+++***</text></g>
+<rect x="0" y="324" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.945s" fill="freeze"/></rect>
+<clipPath id="c28"><rect x="0" y="336" width="900" height="12"/></clipPath>
+<g clip-path="url(#c28)"><text class="a" x="0" y="346">                                 =+++*###++++*****####***#:</text></g>
+<rect x="0" y="336" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="0.980s" fill="freeze"/></rect>
+<clipPath id="c29"><rect x="0" y="348" width="900" height="12"/></clipPath>
+<g clip-path="url(#c29)"><text class="a" x="0" y="358">                                  +***+=+=-:...:==+++*##%=</text></g>
+<rect x="0" y="348" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.015s" fill="freeze"/></rect>
+<clipPath id="c30"><rect x="0" y="360" width="900" height="12"/></clipPath>
+<g clip-path="url(#c30)"><text class="a" x="0" y="370">                                  :***++++***********#%%%*.</text></g>
+<rect x="0" y="360" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.050s" fill="freeze"/></rect>
+<clipPath id="c31"><rect x="0" y="372" width="900" height="12"/></clipPath>
+<g clip-path="url(#c31)"><text class="a" x="0" y="382">                                 +%##**++++++*+******#%%%@@:</text></g>
+<rect x="0" y="372" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.085s" fill="freeze"/></rect>
+<clipPath id="c32"><rect x="0" y="384" width="900" height="12"/></clipPath>
+<g clip-path="url(#c32)"><text class="a" x="0" y="394">                            .-==@@@#%%*+++=----==++*#%@@%@@@@+</text></g>
+<rect x="0" y="384" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.120s" fill="freeze"/></rect>
+<clipPath id="c33"><rect x="0" y="396" width="900" height="12"/></clipPath>
+<g clip-path="url(#c33)"><text class="a" x="0" y="406">                          :#@@%@@@@%*%@#+++++*++**#%@@@@%@@@@@@*++++*=</text></g>
+<rect x="0" y="396" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.155s" fill="freeze"/></rect>
+<clipPath id="c34"><rect x="0" y="408" width="900" height="12"/></clipPath>
+<g clip-path="url(#c34)"><text class="a" x="0" y="418">                   :+*+=+#@@@%@@@@@##*#@%%#%%%%%@@@@@@@%*@@@@@@@@@@@@@*-.</text></g>
+<rect x="0" y="408" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.190s" fill="freeze"/></rect>
+<clipPath id="c35"><rect x="0" y="420" width="900" height="12"/></clipPath>
+<g clip-path="url(#c35)"><text class="a" x="0" y="430">               .+%@@@@@@@@@@@@@@@@#%#**#@@@@@@@@@@@@@@%*#@@@@@@@@@@@@@@@@@%#*=:</text></g>
+<rect x="0" y="420" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.225s" fill="freeze"/></rect>
+<clipPath id="c36"><rect x="0" y="432" width="900" height="12"/></clipPath>
+<g clip-path="url(#c36)"><text class="a" x="0" y="442">            :+*##@@@@@@@@@@@@@@@@#*%#***#@@@@@@@@@@@@%**%@@@%@@@@@@@@@@@@@@@@@@@%+:</text></g>
+<rect x="0" y="432" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.260s" fill="freeze"/></rect>
+<clipPath id="c37"><rect x="0" y="444" width="900" height="12"/></clipPath>
+<g clip-path="url(#c37)"><text class="a" x="0" y="454">          =%@@@@@@@@@@@@@@@@@@@@@+*###***#%@@@@@@@@@#**#%@@@%@@@@@@@@@@@@@@@@@@@@@@%+:</text></g>
+<rect x="0" y="444" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.295s" fill="freeze"/></rect>
+<clipPath id="c38"><rect x="0" y="456" width="900" height="12"/></clipPath>
+<g clip-path="url(#c38)"><text class="a" x="0" y="466">         *@@@@@@@@@@@@@@@@@@@@@@@+****#****##%%%%%%****#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text></g>
+<rect x="0" y="456" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.330s" fill="freeze"/></rect>
+<clipPath id="c39"><rect x="0" y="468" width="900" height="12"/></clipPath>
+<g clip-path="url(#c39)"><text class="a" x="0" y="478">        .@@@@@@@@@@@@@@@@@@@@@@@@*+*++*****###***++****%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text></g>
+<rect x="0" y="468" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.365s" fill="freeze"/></rect>
+<clipPath id="c40"><rect x="0" y="480" width="900" height="12"/></clipPath>
+<g clip-path="url(#c40)"><text class="a" x="0" y="490">        @@@@@@@@@@@@@@@@@@@@@@@@@++++==+**+****+++***+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text></g>
+<rect x="0" y="480" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.400s" fill="freeze"/></rect>
+<clipPath id="c41"><rect x="0" y="492" width="900" height="12"/></clipPath>
+<g clip-path="url(#c41)"><text class="a" x="0" y="502">       %@@@@@@@@@@@@@@@@@@@@@@@@@*-=======-==-====++==@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text></g>
+<rect x="0" y="492" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.435s" fill="freeze"/></rect>
+<clipPath id="c42"><rect x="0" y="504" width="900" height="12"/></clipPath>
+<g clip-path="url(#c42)"><text class="a" x="0" y="514">      %@@@@@@@@@@@@@@@@@@@@@@@@@@@+------:-----------%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text></g>
+<rect x="0" y="504" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.470s" fill="freeze"/></rect>
+<clipPath id="c43"><rect x="0" y="516" width="900" height="12"/></clipPath>
+<g clip-path="url(#c43)"><text class="a" x="0" y="526">     .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=:-----------:--:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text></g>
+<rect x="0" y="516" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.505s" fill="freeze"/></rect>
+<clipPath id="c44"><rect x="0" y="528" width="900" height="12"/></clipPath>
+<g clip-path="url(#c44)"><text class="a" x="0" y="538">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=:------------:*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.</text></g>
+<rect x="0" y="528" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.540s" fill="freeze"/></rect>
+<clipPath id="c45"><rect x="0" y="540" width="900" height="12"/></clipPath>
+<g clip-path="url(#c45)"><text class="a" x="0" y="550">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=:-----------*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<rect x="0" y="540" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.575s" fill="freeze"/></rect>
+<clipPath id="c46"><rect x="0" y="552" width="900" height="12"/></clipPath>
+<g clip-path="url(#c46)"><text class="a" x="0" y="562">    #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=-=--======#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<rect x="0" y="552" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.610s" fill="freeze"/></rect>
+<clipPath id="c47"><rect x="0" y="564" width="900" height="12"/></clipPath>
+<g clip-path="url(#c47)"><text class="a" x="0" y="574">   :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+========*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text></g>
+<rect x="0" y="564" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.645s" fill="freeze"/></rect>
+<clipPath id="c48"><rect x="0" y="576" width="900" height="12"/></clipPath>
+<g clip-path="url(#c48)"><text class="a" x="0" y="586">   %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++++====+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text></g>
+<rect x="0" y="576" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.680s" fill="freeze"/></rect>
+<clipPath id="c49"><rect x="0" y="588" width="900" height="12"/></clipPath>
+<g clip-path="url(#c49)"><text class="a" x="0" y="598">   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++++++++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text></g>
+<rect x="0" y="588" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.715s" fill="freeze"/></rect>
+<clipPath id="c50"><rect x="0" y="600" width="900" height="12"/></clipPath>
+<g clip-path="url(#c50)"><text class="a" x="0" y="610">  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+*++++#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<rect x="0" y="600" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.750s" fill="freeze"/></rect>
+<clipPath id="c51"><rect x="0" y="612" width="900" height="12"/></clipPath>
+<g clip-path="url(#c51)"><text class="a" x="0" y="622">  %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#***#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text></g>
+<rect x="0" y="612" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.785s" fill="freeze"/></rect>
+<clipPath id="c52"><rect x="0" y="624" width="900" height="12"/></clipPath>
+<g clip-path="url(#c52)"><text class="a" x="0" y="634"> :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.</text></g>
+<rect x="0" y="624" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.820s" fill="freeze"/></rect>
+<clipPath id="c53"><rect x="0" y="636" width="900" height="12"/></clipPath>
+<g clip-path="url(#c53)"><text class="a" x="0" y="646"> *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text></g>
+<rect x="0" y="636" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.855s" fill="freeze"/></rect>
+<clipPath id="c54"><rect x="0" y="648" width="900" height="12"/></clipPath>
+<g clip-path="url(#c54)"><text class="a" x="0" y="658"> %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text></g>
+<rect x="0" y="648" width="900" height="12" fill="white"><animate attributeName="width" from="900" to="0" dur="0.8s" begin="1.890s" fill="freeze"/></rect>
+</svg>
