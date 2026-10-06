@@ -1,41 +1,33 @@
-<div align="center">
+# Pola Venkatesh · AI Developer
 
-# `venky@github ~ $ whoami`
+<p align="center"><b>Generative AI · Agentic AI · AI Applications · Full-Stack Development</b></p>
 
-### Pola Venkatesh · Computer Science Student | Developer
+![Intro](./assets/hero.svg?v=1)
 
-<img src="./venky-ascii.svg" width="420" alt="Animated ASCII portrait of Pola Venkatesh" />
+![About](./assets/about-life.svg?v=1)
 
-<br>
+![Stack](./assets/stack.svg?v=1)
 
-<img src="./info-card.svg" width="520" alt="Developer information card" />
+![ID](./assets/id-dashboard.svg?v=1)
 
-<br><br>
+![Connect](./assets/connect.svg?v=1)
 
-### `venky@github ~ $ ./contributions.sh`
+## Selected projects
 
-<img src="./contrib-heatmap.svg" width="900" alt="Animated GitHub contribution heatmap" />
+| Project | What it does | Code |
+|---|---|---|
+| **HireLocal AI** | AI-powered platform that understands a home problem from text/photo, provides DIY guidance or matches local workers, and supports multilingual worker registration. | [Repository](https://github.com/Venky10008/hirelocal-ai-) |
+| **Voice2Task AI** | Local-first AI agent that turns natural-language or spoken commands into real browser/desktop actions, with live task streaming. | [Repository](https://github.com/Venky10008/Voice2Task-AI) |
+| **VoiceLink AI** | Text + voice conversation app built with React/TypeScript, FastAPI, Groq, Firebase, Supabase/Postgres, Edge TTS and Whisper, with optional voice cloning. | [Repository](https://github.com/Venky10008/Voicelink-ai) |
 
-<br>
+## Connect
 
-`venky@github ~ $ cat current_focus.txt`
+- **GitHub:** https://github.com/Venky10008
+- **LinkedIn:** https://www.linkedin.com/in/venkatesh-pola-8b5797238
+- **Portfolio:** https://venky36.vercel.app/
 
-**Prompt Engineering · Generative AI · Agentic AI · AI Agents**
+> 4th-year student from Khammam, building practical AI systems and learning by shipping.
 
-`venky@github ~ $ ls projects/`
+---
 
-[**VoiceLink-AI**](https://github.com/Venky10008/Voicelink-ai) · [**Voice2Task-AI**](https://github.com/Venky10008/Voice2Task-AI)
-
-`venky@github ~ $ cat stack.txt`
-
-**Java · Python · C · SQL · JavaScript**
-
-`venky@github ~ $ open portfolio`
-
-[**venky36.vercel.app**](https://venky36.vercel.app)
-
-`venky@github ~ $ interests`
-
-**AI · Web Development · Automation**
-
-</div>
+<sub>Built as a self-contained GitHub profile: relative assets, embedded fonts, no external image requests, and no JavaScript.</sub>

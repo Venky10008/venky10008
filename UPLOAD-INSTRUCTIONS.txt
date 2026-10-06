@@ -1,0 +1,10 @@
+# Upload instructions
+
+1. Extract this ZIP.
+2. Upload `README.md` and the entire `assets/` folder into the root of your public `Venky10008` profile repository.
+3. Do not upload only the ZIP.
+4. Keep the folder structure exactly as provided.
+
+The repository must be public, named exactly `Venky10008`, and `README.md` must remain at the repository root for GitHub to display it as the profile README.
+
+The `preview.html` file is optional and can be used locally to inspect the five sections before uploading.
